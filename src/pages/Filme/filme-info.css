@@ -27,7 +27,12 @@
     margin: 8px 0;
 }
 
+.area-buttons{
+    margin-bottom: 100px;
+}
+
 .area-buttons button{
+    color: #000;
     background-color: #388f83;
     margin-right: 12px;
     margin-top: 14px;
